@@ -1,7 +1,7 @@
 import Form from "./Form"
-import check from "../assets/images/icon-list.svg"
-import imgDesktop from "../assets/images/illustration-sign-up-desktop.svg"
-import imgMobile from "../assets/images/illustration-sign-up-mobile.svg"
+import check from "../assets/icon-list.svg"
+import imgDesktop from "../assets/illustration-sign-up-desktop.svg"
+import imgMobile from "../assets/illustration-sign-up-mobile.svg"
 
 export interface HomeProps {
   email: string

@@ -1,4 +1,4 @@
-import img from "../assets/images/icon-success.svg"
+import img from "../assets/icon-success.svg"
 
 interface ThanksProps {
   email: string
