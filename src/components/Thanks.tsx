@@ -7,7 +7,7 @@ interface ThanksProps {
 
 export default function Thanks({ email, setHome }: ThanksProps) {
   return (
-    <div className="px-8 py-1 h-[100vh] md:h-auto md:max-w-[400px] md:p-8 md:mt-40">
+    <div className="px-8 py-1 h-[99vh] md:h-auto md:max-w-[400px] md:p-8 md:mt-40">
       <picture>
         <img src={img} alt="foto" className="mt-16 md:mt-0" />
       </picture>

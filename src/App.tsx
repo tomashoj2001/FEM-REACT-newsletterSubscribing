@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <main className='w-full min-h-[99svh] m-auto bg-white md:min-h-0 md:w-fit md:h-auto md:mt-16 md:rounded-3xl'>
+    <main className='w-full min-h-[100svh] bg-white md:min-h-0 md:w-fit md:h-auto md:rounded-3xl'>
       {home
         ? <Home email={email} setEmail={setEmail} setHome={setHome} />
         : <Thanks email={email} setHome={setHome}/>
