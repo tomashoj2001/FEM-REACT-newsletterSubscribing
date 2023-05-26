@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 * {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   transition: background .3s ease-in-out;
 }
 
